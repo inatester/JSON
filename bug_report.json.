@@ -1,1 +1,7 @@
-
+{
+"bug report":{
+"summary":"The add to cart button on the product page does not work",
+"steps":"Go to the website, go to the product page, click on the button put the product in the cart",
+"expected result":"the product gets into the basket",
+"actual result":"the product is not in the cart"
+}
